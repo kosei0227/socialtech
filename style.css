@@ -338,7 +338,7 @@ p {
         margin: 80px auto;
     }
 
-    #contact>form>div {
+    #contact > form > div {
         display: flex;
         flex-direction: row;
         flex-wrap: wrap;
@@ -380,7 +380,7 @@ p {
         width: 700px;
     }
 
-    ditails>div {
+    details > div {
         background-color: #fafafa;
         padding: 20px;
     }
